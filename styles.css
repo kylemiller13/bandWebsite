@@ -1,0 +1,40 @@
+h1{
+  text-align: center;
+  color: #FF1420;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+
+.intro{
+  text-align: center;
+  margin: auto;
+  height: auto;
+}
+
+.band{
+  display: block; 
+  float: left; 
+  margin:0; 
+  width:100%;
+  padding: auto;
+}
+
+span.name{
+  display: inline; 
+  float: left; 
+  text-align:left; 
+  width:25%;
+  color: white;
+}
+
+.my-class {
+  color: white;
+  padding: auto;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+html{
+  background-color: black;
+}
